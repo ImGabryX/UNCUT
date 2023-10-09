@@ -1,4 +1,4 @@
-# UNCUT
+# UNCUT GAME WITH TYPESCRIPT
 Game UNCUT made with the framework Phaser3 and TypeScript https://phaser.io/phaser3
 
 This game has been developed by 7 guys (me included) in a weekend for a competition called Phaser Game Jam in Italy, Baronissi(SA) and is inspired by the dinosaur game made by google.
