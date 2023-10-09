@@ -17,3 +17,6 @@ HOW TO INSTALL.
 - Install node.js
 - Install npm
 - Run npm run start and play the game(if there is some port error, you can change it in UNCUT/webpack/webpack.dev.js)
+
+
+If you get some issues with the download or something else you can play on browser the game on this link -------->>>> https://phasergamejam.itch.io/g-marconi-team-b
